@@ -171,98 +171,171 @@ End
 EXPECTED OUTPUT
 
 Take matrix input from user and display it
+
 enter the values in the matrix:
+
 2
+
 2
+
 2
+
 4
+
 5
+
 6
+
 the given matrix is:
+
 2 2
+
 2 4
+
 5 6
 
 
 Addition of matrix
+
 Enter elements of 1st matrix:
+
 Enter element a11 : 11
+
 Enter element a12 : 12
+
 Enter element a21 : 4
+
 Enter element a22 : 5
 
 Enter elements of 2nd matrix:
+
 Enter element b11 : 5
+
 Enter element b12 : 5
+
 Enter element b21 : 6
+
 Enter element b22 : 7
 
+
 Sum of two matrix is:
+
 16  17
+
 10  12
 
 
 Multiplication of Matrix
+
 Enter rows and columns for first matrix:  2
+
 2
+
 Enter rows and columns for second matrix:  2
+
 2
 
 Enter elements of matrix 1: Enter element a11 : 1
+
 Enter element a12 : 1
+
 Enter element a21 : 1
+
 Enter element a22 : 1
 
-Enter elements of matrix 2: Enter element b11 : 1
+Enter elements of matrix 2: 
+
+Enter element b11 : 1
+
 Enter element b12 : 1
+
 Enter element b21 : 1
+
 Enter element b22 : 1
+
 
 Output Matrix:   2 2  2 2
 
 
 Enter the number of rows and columns for matrix1: 2
+
 2
+
 Enter the number of rows and columns for matrix2: 2
+
 2
+
 Enter elements of matrix1:
+
 2
+
 1
+
 2
+
 2
+
 Enter elements of matrix2:
+
 2
+
 3
+
 1
+
 1
+
 Result of matrix multiplication:
+
 5 7
+
 6 8
 
 
 Diagonal Addition
+
 the matrix is:
+
 1 3 4
+
 5 6 7
+
 8 9 1
+
 the  transposed matrix is:
+
 1 5 8
+
 3 6 9
+
 4 7 1
 
 
 Transpose of Matrix
+
 Enter elements into the matrix 
+
 1 3 4
+
 5 6 7
+
 8 9 1
+
 Sum of Left Diagonal: 8
+
 Sum of Right Diagonal: 18
 
+
 Compare elements of first row to the second row
+
 Enter the number of rows and columns: 2
+
 2
+
 Enter elements of the matrix:
+
 1 2
+
 1 2
+
 The elements of the first row are equal to the corresponding elements of the second row.
