@@ -36,8 +36,6 @@ the given matrix is:
 */
 
 /* 
-Name-Purvansha Gehlod
-PRN-22070123088
 Exp-8(Part-B)
 Addition of Matrix*/
 #include<iostream>
@@ -99,8 +97,7 @@ Sum of two matrix is:
 */
 
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/*
 EXP-8(Part-C)*/
 #include<iostream>
 using namespace std;
@@ -180,8 +177,7 @@ Enter element b22 : 1
 Output Matrix:   2 2  2 2
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/*
 EXP-8(Part-D)
 */
 #include <iostream>
@@ -268,8 +264,7 @@ Result of matrix multiplication:
 */
 
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/*
 EXP-8(Part-E)*/
 #include<iostream>
 using namespace std ;
@@ -315,8 +310,7 @@ the  transposed matrix is:
 4 7 1
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/*
 EXP-8(Part-F)*/
 #include <iostream>
 using namespace std;
@@ -354,8 +348,7 @@ Sum of Left Diagonal: 8
 Sum of Right Diagonal: 18
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/*
 EXP-8(Part-G)*/
 #include <iostream>
 
